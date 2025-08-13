@@ -1,4 +1,4 @@
-// Dijkstra's algorithm
+1.// Dijkstra's algorithm
 import java.util.Scanner;
 class Graph{
     int vertices;
@@ -72,7 +72,7 @@ public class Main
 	}
 }
 
-Output
+//Output
 5
 0 10 0 5 0
 0 0 1 2 0
